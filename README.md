@@ -1,2 +1,3 @@
-## Practicing algos in jS 
+## Practicing algos in JS 
+
 
